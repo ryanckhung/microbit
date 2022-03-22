@@ -13,3 +13,6 @@ https://makecode.microbit.org/lessons/
 
 Goto Basic, you can see "forever", "on start", "pause", "clear screen", "show icon"
 Goto Input, you can see "on shake", press button
+
+
+You can put "on start", "forever", "on shake", "on button A pressed" at the same time
