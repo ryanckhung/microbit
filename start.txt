@@ -1,0 +1,8 @@
+Editor
+https://makecode.microbit.org/#editor
+
+Connect and download
+<Step 1> Edit your code by graphic interface
+<Step 2> goto the left menu, press “…”, Connect Device
+<Step 3> Then click “Download”
+Remark: after donwload, even it's power off, the code will be there once you power on again
