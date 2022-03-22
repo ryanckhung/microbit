@@ -15,4 +15,4 @@ Goto Basic, you can see "forever", "on start", "pause", "clear screen", "show ic
 Goto Input, you can see "on shake", press button
 
 
-You can put "on start", "forever", "on shake", "on button A pressed" at the same time
+You can put "on start", "forever", "on shake", "on button A pressed" at the same time", "on button B pressed"
