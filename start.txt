@@ -7,12 +7,14 @@ Connect and download
 <Step 3> Then click “Download”
 Remark: after donwload, even it's power off, the code will be there once you power on again
 
+
 https://makecode.microbit.org/lessons/
 
-
-
+Basic Operation
 Goto Basic, you can see "forever", "on start", "pause", "clear screen", "show icon"
 Goto Input, you can see "on shake", press button
-
-
 You can put "on start", "forever", "on shake", "on button A pressed" at the same time", "on button B pressed"
+
+
+For more about the UI editor:
+Click the Question mark icon on the upper right hand side
