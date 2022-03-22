@@ -19,3 +19,4 @@ You can put "on start", "forever", "on shake", "on button A pressed" at the same
 For more about the UI editor:
 Click the Question mark icon on the upper right hand side
 https://makecode.microbit.org/reference
+Pay attention on the shape of the block
