@@ -6,3 +6,10 @@ Connect and download
 <Step 2> goto the left menu, press “…”, Connect Device
 <Step 3> Then click “Download”
 Remark: after donwload, even it's power off, the code will be there once you power on again
+
+https://makecode.microbit.org/lessons/
+
+
+
+Goto Basic, you can see "forever", "on start", "pause", "clear screen", "show icon"
+Goto Input, you can see "on shake", press button
