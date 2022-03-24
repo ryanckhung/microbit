@@ -1,6 +1,7 @@
 Editor
 https://makecode.microbit.org/
 https://makecode.microbit.org/#editor
+- Extensions -> Search "wukong" (add the extension for the wukong kit)
 
 Connect and download
 <Step 1> Edit your code by graphic interface
